@@ -9,7 +9,6 @@ import {
   ActivityIndicator,
   ScrollView,
   Linking,
-  TouchableOpacity,
 } from 'react-native';
 import {
   Card,
