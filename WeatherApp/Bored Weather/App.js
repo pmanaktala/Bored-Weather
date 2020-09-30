@@ -224,7 +224,7 @@ export default class App extends Component {
                 return <FontAwesome5 name={'tint'} />;
               }}
               style={styles.chipContent}>
-              Humidity : {weather.main.humidity}m/s
+              Humidity : {weather.main.humidity}%
             </Chip>
           </View>
         </Card.Content>
